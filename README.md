@@ -1,6 +1,6 @@
 # Rust Blockchain
 
-This program is to test rust, with simple commands.
+This program is to test rust, with setting up a simple blockchain.
 
 # Contribution 
 
